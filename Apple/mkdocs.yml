@@ -1,4 +1,5 @@
 site_name: My Docs
+site_url: https://d9nam1c.github.io/Multimodal-Rhetorical-Analysis/
 
 theme:
   name: mkdocs
